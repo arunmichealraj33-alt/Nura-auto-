@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nura Auto Accept</string>
+    <string name="accessibility_description">Detects a visible Accept button and can click it when enabled.</string>
+</resources>
